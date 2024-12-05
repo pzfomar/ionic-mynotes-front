@@ -1,0 +1,7 @@
+{
+  "name": "app-notes-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
