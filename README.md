@@ -1,1 +1,1 @@
-# mynotes-front
+# ionic-mynotes-front
